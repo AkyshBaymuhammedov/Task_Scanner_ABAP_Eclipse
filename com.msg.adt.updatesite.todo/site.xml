@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Update site for feature and plugin">
+      Update site for feature and plugin
+   </description>
+   <feature url="features/com.msg.adt.feature.todo_1.0.2.202007182104.jar" id="com.msg.adt.feature.todo" version="1.0.2.202007182104">
+      <category name="Task Scanner for ABAP in Eclipse"/>
+   </feature>
+   <category-def name="Task Scanner for ABAP in Eclipse" label="Task Scanner for ABAP in Eclipse"/>
+</site>
