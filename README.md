@@ -41,4 +41,4 @@ The plugin works with Eclipse Photon and newer versions with **Java 8** or highe
 
 ## Notice
 
-This is just the initial version of the plugin, new features and updates will be provided in the near future. If you find a bug or have a feature request then please create an issue with the description of the bug or feature.
+This is just the initial version of the plugin, new features and updates will be provided in the near future. If you find a bug or have a feature request then please create issues for them.
