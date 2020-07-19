@@ -37,4 +37,4 @@ In the Preferences page, you can include or exclude task types to scan, give a c
 1. ABAP Development Tools (ADT) must be installed on the Eclipse installation
 1. Following abapGit Repository must be installed on the target system: https://github.com/AkyshBaymuhammedov/ADT_TODO_Plugin_ABAP.git (Netweaver 7.40 SP08+)
 
-The plugin works with Eclipse Photon and newer versions with Java 8 or higher.
+The plugin works with Eclipse Photon and newer versions with **Java 8** or higher.
