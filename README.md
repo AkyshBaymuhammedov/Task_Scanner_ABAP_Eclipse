@@ -20,7 +20,7 @@ Click right on the object which you want to scan and in the context menu select 
 
 To scan objects in a Transport request, open the **Transport Organizer** view in Eclipse and click right on the Transport request which you want to scan and select **Task Scanner** then press **Scan Source Code**. Alternatively you can also press the short cut **Ctrl + 9** on the Transport request.  
 
-Markers will be displayed on the **Problems Tab** with the task description, object name and the line number where the task was found. By double clicking on the marker, you can navigate to the line and see the task highlighted.
+Markers will be displayed on the **Problems Tab** with the task description, object name and the line number where the tasks were found. By double clicking on the marker, you can navigate to the line and see the task highlighted.
 
 ![alt text](https://github.com/AkyshBaymuhammedov/Task_Scanner_ABAP_Eclipse/raw/master/docu/screenshot_1.PNG?raw=true)  
 
