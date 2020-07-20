@@ -29,7 +29,7 @@ Markers will be displayed on the **Problems Tab** with the task description, obj
 
 In the Preferences page, you can include or exclude task types to scan, give a custom tag to scan, set if to do deep scans in packages and also set the option to scan only objects created by you in packages and transport requests.
 
-![alt text](https://github.com/AkyshBaymuhammedov/Task_Scanner_ABAP_Eclipse/raw/master/docu/preferences.PNG?raw=true)  
+![alt text](https://github.com/AkyshBaymuhammedov/Task_Scanner_ABAP_Eclipse/raw/master/docu/preferences_page.PNG?raw=true)  
 
 
 ## Prerequisites:
